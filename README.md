@@ -10,6 +10,14 @@ Fork this project, send a pull request and the translation will go live (though 
 
 Please check the [issues](https://github.com/leftlogic/confcodeofconduct.com/issues) to see if anyone else is currently working on a translation.
 
+Current available translations (in no particular order):
+
+* English: [http://confcodeofconduct.com](http://confcodeofconduct.com)
+* Spanish: [http://es.confcodeofconduct.com](http://es.confcodeofconduct.com)
+* Italian: [http://it.confcodeofconduct.com](http://it.confcodeofconduct.com)
+* German: [http://de.confcodeofconduct.com](http://de.confcodeofconduct.com)
+* Norwegian: [http://no.confcodeofconduct.com](http://no.confcodeofconduct.com)
+
 Background
 ----------
 
