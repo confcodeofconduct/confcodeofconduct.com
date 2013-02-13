@@ -8,7 +8,7 @@ RewriteBase /
 # and it will serve the index-fr.html file, so we have 
 # localisation
 RewriteCond %{HTTP_HOST} ^([^.]+)\.confcodeofconduct\.com$ [NC]
-RewriteCond index-%1.html -f
+RewriteCond %{DOCUMENT_ROOT}/index-%1.html -f
 RewriteRule ^index.html$ /index-%1.html
 
 </IfModule>
