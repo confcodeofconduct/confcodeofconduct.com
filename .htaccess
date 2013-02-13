@@ -1,0 +1,13 @@
+<IfModule mod_rewrite.c>
+
+Options +FollowSymLinks +ExecCGI
+RewriteEngine On
+RewriteBase /
+
+# this rewrite rule allows linking to fr.codeofconduct.com
+# and it will serve the index-fr.html file, so we have 
+# localisation
+RewriteCond %{HTTP_HOST} ^([^.]+)\.confcodeofconduct\.com$ [NC]
+RewriteRule ^index.html$ /index-%1.html
+
+</IfModule>

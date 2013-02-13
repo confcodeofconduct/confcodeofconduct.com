@@ -1,6 +1,16 @@
 confcodeofconduct.com
 =====================
 
+Translations
+------------
+
+If you would like to contribute a translation to this project, please include a translated file that includes the language short code in the filename as this will be mapped to from the url. For example, fr.confcodeofconduct.com will load the `index-fr.html` file.
+
+Fork this project, send a pull request and the translation will go live (though the translation may be validated before publishing).
+
+Background
+----------
+
 I've put this project under Left Logic to try to disown it from an individual. Actually, what I'd like is some kind of community organisation that projects like this can move to (perhaps also moving [mit-license.org](https://github.com/remy/mit-license) to it - but one step at a time eh?).
 
 This simple site offers up the code of conduct that (I believe) Tiffany Conroy first wrote up for jsconf.eu 2012. I reused the same content (removing the jsconf.eu specific parts) for Full Frontal 2012. 
