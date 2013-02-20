@@ -17,6 +17,7 @@ Current available translations (in no particular order):
 * Italian: [http://it.confcodeofconduct.com](http://it.confcodeofconduct.com)
 * German: [http://de.confcodeofconduct.com](http://de.confcodeofconduct.com)
 * Norwegian: [http://no.confcodeofconduct.com](http://no.confcodeofconduct.com)
+* Dutch [http://nl.confcodeofconduct.com](http://nl.confcodeofconduct.com)
 
 Background
 ----------
