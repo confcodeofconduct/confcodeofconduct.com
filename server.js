@@ -1,7 +1,7 @@
 'use strict';
 var st = require('st');
 var http = require('http');
-var base = 'confcodeofconduct.dev';
+var base = 'confcodeofconduct.com';
 var parse = require('url').parse;
 
 var mount = st({
@@ -42,7 +42,6 @@ var server = http.createServer(function(req, res) {
   // console.log(req.headers);
   subdomain(req, res, function () {
     mount(req, res, function () {
-      console.log('here', req.url);
       res.writeHead(404);
       res.end('404');
     });
