@@ -19,6 +19,8 @@ Current available translations (in alphabetical order):
 * Norwegian: [http://no.confcodeofconduct.com](http://no.confcodeofconduct.com)
 * Polish: [http://pl.confcodeofconduct.com](http://pl.confcodeofconduct.com)
 * Spanish: [http://es.confcodeofconduct.com](http://es.confcodeofconduct.com)
+* Japanese: [http://ja.confcodeofconduct.com](http://ja.confcodeofconduct.com)
+* Hewbrew: [http://he.confcodeofconduct.com](http://he.confcodeofconduct.com)
 
 
 Background
