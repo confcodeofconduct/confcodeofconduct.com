@@ -21,7 +21,8 @@ Current available translations (in alphabetical order):
 * Spanish: [http://es.confcodeofconduct.com](http://es.confcodeofconduct.com)
 * Japanese: [http://ja.confcodeofconduct.com](http://ja.confcodeofconduct.com)
 * Hewbrew: [http://he.confcodeofconduct.com](http://he.confcodeofconduct.com)
-* Turkish [http://tr.confcodeofconduct.com/](http://tr.confcodeofconduct.com/)
+* Turkish: [http://tr.confcodeofconduct.com/](http://tr.confcodeofconduct.com/)
+* Traditional Chinese: [http://tw.confcodeofconduct.com/](http://tw.confcodeofconduct.com/)
 
 
 Background
