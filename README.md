@@ -12,18 +12,18 @@ Please check the [issues](https://github.com/leftlogic/confcodeofconduct.com/iss
 
 Current available translations (in alphabetical order):
 
+* Chinese (Traditional): [http://tw.confcodeofconduct.com/](http://tw.confcodeofconduct.com/)
 * Dutch [http://nl.confcodeofconduct.com](http://nl.confcodeofconduct.com)
 * English: [http://confcodeofconduct.com](http://confcodeofconduct.com)
 * German: [http://de.confcodeofconduct.com](http://de.confcodeofconduct.com)
+* Hebrew: [http://he.confcodeofconduct.com](http://he.confcodeofconduct.com)
 * Italian: [http://it.confcodeofconduct.com](http://it.confcodeofconduct.com)
+* Japanese: [http://ja.confcodeofconduct.com](http://ja.confcodeofconduct.com)
 * Norwegian: [http://no.confcodeofconduct.com](http://no.confcodeofconduct.com)
 * Polish: [http://pl.confcodeofconduct.com](http://pl.confcodeofconduct.com)
-* Portuguese(Brazil): [http://pt-br.confcodeofconduct.com](http://pt-br.confcodeofconduct.com)
+* Portuguese (Brazil): [http://pt-br.confcodeofconduct.com](http://pt-br.confcodeofconduct.com)
 * Spanish: [http://es.confcodeofconduct.com](http://es.confcodeofconduct.com)
-* Japanese: [http://ja.confcodeofconduct.com](http://ja.confcodeofconduct.com)
-* Hewbrew: [http://he.confcodeofconduct.com](http://he.confcodeofconduct.com)
 * Turkish: [http://tr.confcodeofconduct.com/](http://tr.confcodeofconduct.com/)
-* Traditional Chinese: [http://tw.confcodeofconduct.com/](http://tw.confcodeofconduct.com/)
 
 
 Background
