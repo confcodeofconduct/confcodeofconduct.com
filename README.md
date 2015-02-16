@@ -14,6 +14,7 @@ Current available translations (in alphabetical order):
 
 * Dutch [http://nl.confcodeofconduct.com](http://nl.confcodeofconduct.com)
 * English: [http://confcodeofconduct.com](http://confcodeofconduct.com)
+* French: [http://fr.confcodeofconduct.com](http://fr.confcodeofconduct.com)
 * German: [http://de.confcodeofconduct.com](http://de.confcodeofconduct.com)
 * Italian: [http://it.confcodeofconduct.com](http://it.confcodeofconduct.com)
 * Norwegian: [http://no.confcodeofconduct.com](http://no.confcodeofconduct.com)
