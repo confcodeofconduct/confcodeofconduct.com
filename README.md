@@ -14,6 +14,7 @@ Current available translations (in alphabetical order):
 
 * Dutch [http://nl.confcodeofconduct.com](http://nl.confcodeofconduct.com)
 * English: [http://confcodeofconduct.com](http://confcodeofconduct.com)
+* French: [http://fr.confcodeofconduct.com](http://fr.confcodeofconduct.com)
 * German: [http://de.confcodeofconduct.com](http://de.confcodeofconduct.com)
 * Italian: [http://it.confcodeofconduct.com](http://it.confcodeofconduct.com)
 * Norwegian: [http://no.confcodeofconduct.com](http://no.confcodeofconduct.com)
@@ -21,7 +22,7 @@ Current available translations (in alphabetical order):
 * Portuguese(Brazil): [http://pt-br.confcodeofconduct.com](http://pt-br.confcodeofconduct.com)
 * Spanish: [http://es.confcodeofconduct.com](http://es.confcodeofconduct.com)
 * Japanese: [http://ja.confcodeofconduct.com](http://ja.confcodeofconduct.com)
-* Hewbrew: [http://he.confcodeofconduct.com](http://he.confcodeofconduct.com)
+* Hebrew: [http://he.confcodeofconduct.com](http://he.confcodeofconduct.com)
 * Turkish: [http://tr.confcodeofconduct.com/](http://tr.confcodeofconduct.com/)
 * Traditional Chinese: [http://tw.confcodeofconduct.com/](http://tw.confcodeofconduct.com/)
 
