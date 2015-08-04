@@ -20,6 +20,7 @@ Current available translations (in alphabetical order):
 * Norwegian: [http://no.confcodeofconduct.com](http://no.confcodeofconduct.com)
 * Polish: [http://pl.confcodeofconduct.com](http://pl.confcodeofconduct.com)
 * Portuguese(Brazil): [http://pt-br.confcodeofconduct.com](http://pt-br.confcodeofconduct.com)
+* Russian: [http://ru.confcodeofconduct.com](http://ru.confcodeofconduct.com)
 * Spanish: [http://es.confcodeofconduct.com](http://es.confcodeofconduct.com)
 * Japanese: [http://ja.confcodeofconduct.com](http://ja.confcodeofconduct.com)
 * Hebrew: [http://he.confcodeofconduct.com](http://he.confcodeofconduct.com)
