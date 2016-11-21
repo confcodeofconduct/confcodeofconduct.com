@@ -65,7 +65,11 @@ em {
 <body>
   <h1>Conference Code of Conduct</h1>
 
+<<<<<<< HEAD
+<p>All attendees, speakers, sponsors and volunteers at our slack channel are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.</p>
+=======
   <p>All attendees, speakers, sponsors and volunteers of our slack channel are required to agree with the following code of conduct. Channel admins will enforce this code throughout. We expect cooperation from all participants to help ensure a safe environment for everybody.</p>
+>>>>>>> upstream
 
   <h2>Need Help?</h2>
 
@@ -73,7 +77,11 @@ em {
 
   <h2>The Quick Version</h2>
 
+<<<<<<< HEAD
+<p>Our slack channel is dedicated to providing a harassment-free slack channel experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of slack channel participants in any form. Sexual language and imagery is not appropriate for any slack channel venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the slack channel <em>without a refund</em> at the discretion of the slack channel organisers.</p>
+=======
   <p>Our slack channel is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate in any channel or other medium including, Twitter and other online media. Channel participants violating these rules may be sanctioned or expelled from the slack channel at the discretion of the slack channel admins.</p>
+>>>>>>> upstream
 
   <h2>The Less Quick Version</h2>
 
@@ -83,6 +91,15 @@ em {
 
   <p>Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualised images, activities, or other material. Participants should not use sexualised profile pictures, or otherwise create a sexualised environment.</p>
 
+<<<<<<< HEAD
+<p>If a participant engages in harassing behavior, the slack channel organisers may take any action they deem appropriate, including warning the offender or expulsion from the slack channel with no refund.</p>
+
+<p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of channel admins immediately. Conference staff can be identified as they&#39;ll be wearing branded t-shirts.</p>
+
+<p>Channel admins will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the slack channel. We value your attendance.</p>
+
+<p>We expect participants to follow these rules at slack channel and workshop venues and slack channel-related social events.</p>
+=======
   <p>If a participant engages in harassing behavior, the slack channel organisers may take any action they deem appropriate, including warning the offender or expulsion from the slack channel with no refund.</p>
 
   <p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a channel admin immediately. Channel admins can be identified on our <a href="https://melbournealtnet.slack.com/team">team page.</p>
@@ -90,6 +107,7 @@ em {
   <p>Channel admins  will be happy to help participants contact local law enforcement, or otherwise assist those experiencing harassment to feel safe. We value your participation.</p>
 
   <p>We expect participants to follow these rules in the slack channel and other Melbourne ALT.NET related events.</p>
+>>>>>>> upstream
 
 <div class="footer">
 <p><small><em>Original source and credit: <a href="http://2012.jsconf.us/#/about">http://2012.jsconf.us/#/about</a> &amp; <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">The Ada Initiative</a><br>
