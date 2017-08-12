@@ -20,6 +20,7 @@ Current available translations (in alphabetical order):
 * German [http://de.confcodeofconduct.com/](http://de.confcodeofconduct.com/)
 * Greek [http://gr.confcodeofconduct.com/](http://gr.confcodeofconduct.com/)
 * Hebrew [http://he.confcodeofconduct.com/](http://he.confcodeofconduct.com/)
+* Indonesian [http://id.confcodeofconduct.com/](http://id.confcodeofconduct.com/)
 * Italian [http://it.confcodeofconduct.com/](http://it.confcodeofconduct.com/)
 * Japanese [http://ja.confcodeofconduct.com/](http://ja.confcodeofconduct.com/)
 * Korean [http://kr.confcodeofconduct.com/](http://kr.confcodeofconduct.com/)
