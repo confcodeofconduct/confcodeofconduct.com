@@ -2,10 +2,8 @@
   "name": "confcodeofconduct.com",
   "version": "1.0.0",
   "description": "Just a suggested template for Code of Conduct",
-  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "build": "node netlify.js"
   },
   "repository": {
     "type": "git",
