@@ -1,4 +1,5 @@
 node_modules/
+_redirects
 .DS_Store
 .*.swp
 *~

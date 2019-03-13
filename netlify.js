@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const domain = 'rem.dev';
+const domain = 'confcodeofconduct.com';
 
 fs.readdir(__dirname, (error, files) => {
   const lines = files
