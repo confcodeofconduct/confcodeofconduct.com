@@ -8,7 +8,7 @@ If you would like to contribute a translation to this project, please include a 
 
 Fork this project, send a pull request and the translation will go live (though the translation may be validated before publishing).
 
-Please check the [issues](https://github.com/leftlogic/confcodeofconduct.com/issues) to see if anyone else is currently working on a translation.
+Please check the [issues](https://github.com/confcodeofconduct/confcodeofconduct.com/issues) to see if anyone else is currently working on a translation.
 
 Current available translations (in alphabetical order):
 
