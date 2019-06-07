@@ -15,6 +15,10 @@ body {
   padding-top: 60px;
 }
 
+.rtl {
+  direction: rtl;
+}
+
 p,
 h1,
 h2 {
