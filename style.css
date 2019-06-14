@@ -61,3 +61,17 @@ em {
 .footer p {
   text-align: left;
 }
+
+.notice {
+  max-width: 80%;
+  border-left: 16px solid red;
+  margin: 80px auto;
+}
+
+.notice * {
+  max-width: 90%;
+}
+
+.notice p {
+  font-size: 150%;
+}
