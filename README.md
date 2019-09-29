@@ -47,3 +47,9 @@ This is *not* owned by me - this is a public resource - so if there's changes, p
 On that note - I'd rather not be the only person with merge permissions, so I hope that by the time you read this, I'm not the only person with those rights.
 
 &mdash; Remy / @rem
+
+Licence
+-------
+
+Original source and credit: http://2012.jsconf.us/#/about & The Ada Initiative.
+This work is licensed under a [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/) License.
