@@ -12,6 +12,7 @@ Please check the [issues](https://github.com/confcodeofconduct/confcodeofconduct
 
 Current available translations (in alphabetical order):
 
+* Catalan [http://ca.confcodeofconduct.com/](http://ca.confcodeofconduct.com/)
 * Chinese (Traditional) [http://tw.confcodeofconduct.com/](http://tw.confcodeofconduct.com/)
 * Czech [http://cz.confcodeofconduct.com/](http://cz.confcodeofconduct.com/)
 * Dutch [http://nl.confcodeofconduct.com/](http://nl.confcodeofconduct.com/)
